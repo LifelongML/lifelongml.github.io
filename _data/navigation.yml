@@ -3,5 +3,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Archives"
-    url: /archives/
+  - title: "Seminars"
+    url: /seminars/
+  - title: "Workshops"
+    url: /workshops/
+  - title: "Maintainers"
+    url: /maintainers/

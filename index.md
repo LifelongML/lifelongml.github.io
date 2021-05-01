@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lifelong ML
-permalink: /about/
+permalink: /
 ---
 
 One of the most significant and challenging open problems in Artificial Intelligence (AI) is the problem of Lifelong Learning. Lifelong Machine Learning considers systems that can continually learn many tasks (from one or more domains) over a lifetime. A lifelong learning system efficiently and effectively:
